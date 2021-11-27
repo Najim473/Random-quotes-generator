@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 140px;
+  background: rgb(161, 212, 232);
+  padding: 10px;
+  height: 300px;
+  width: 350px;
+  text-align: center;
+  margin-left: 40%;
+}
+button {
+  background: rgb(240, 117, 117);
+  color: white;
+  width: 180px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+}
+#output {
+  margin-top: 20px;
+  font-size: 20px;
+  color: white;
+}
